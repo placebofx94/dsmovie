@@ -70,5 +70,4 @@ public class MovieDTO {
 		this.image = image;
 	}
 
-	
 }
